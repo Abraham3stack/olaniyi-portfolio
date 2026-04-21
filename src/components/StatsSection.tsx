@@ -2,7 +2,7 @@ import { useScrollReveal } from "@/hooks/useScrollReveal";
 import { Target, Trophy, Handshake, Shirt } from "lucide-react";
 
 const stats = [
-  { icon: Shirt, label: "Matches", value: "19+" },
+  { icon: Shirt, label: "Matches", value: "51+" },
   { icon: Target, label: "Goals", value: "3" },
   { icon: Handshake, label: "Assists", value: "1" },
   { icon: Trophy, label: "Trophies", value: "1" },
